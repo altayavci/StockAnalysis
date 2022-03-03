@@ -1,1 +1,1 @@
-Python for data analysis 
+Python for data analysis , time serial analysis (ARIMA Model)
