@@ -1,1 +1,1 @@
-Python for data analysis , time serial analysis (ARIMA,Prophet Model)
+Python for data analysis , time serial analysis (ARIMA,Auto-ARIMA,and Prophet Model)
