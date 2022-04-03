@@ -1,5 +1,5 @@
 
-[ETC_CandleChart.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/plots/eth_candlechart.html)
+[ETH_CandleChart.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/plots/eth_candlechart.html)
 
 [BTC_CandleChart.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/altayavci/DataAnalysis/main/plots/btc_candlechart.html)
 
